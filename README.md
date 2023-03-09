@@ -3,3 +3,7 @@
 Lecture 1
 
 In todays lecture we
+
+Lecture 2
+
+In today's lecture we did
