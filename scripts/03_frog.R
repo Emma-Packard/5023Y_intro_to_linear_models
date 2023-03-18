@@ -69,8 +69,7 @@ lsmodel_frogs1 %>%
     x = "Temperature (°C)",
     y = "Amount of days taken to hatch",
     title = "",
-    subtitle = "",
-    legend = "Temperature") 
+    subtitle = "") 
   
 
 p + guides(fill=guide_legend(title="Temperature"))
